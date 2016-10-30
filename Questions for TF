@@ -1,0 +1,10 @@
+1. Technical Questions:
+- how to work on one ipython notebook?
+
+
+
+
+2. Data Questions
+- how to treast the rows of missing values in shot_clock (some are correlated with game_clock, some may be free shots, 
+  are we deleting last-minute shots?)
+  
