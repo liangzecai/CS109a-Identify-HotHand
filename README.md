@@ -13,7 +13,7 @@
     <section class="page-header">
     <div>
       <h1 class="project-name">CS109 Hot Hand Final Project </h1>
-      <h2 class="project-tagline">Anthony Chen, Anthony Hou, Katherine Loboda, and Samuel Stone</h2>
+      <h2 class="project-tagline">Bailey</h2>
       </div>
     </section>
     
